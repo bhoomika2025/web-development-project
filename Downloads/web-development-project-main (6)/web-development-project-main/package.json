@@ -1,0 +1,26 @@
+{
+  "name": "web-development-project",
+  "version": "1.0.0",
+  "description": "A web development project showcasing various technologies and skills.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build step needed'"
+  },
+  "keywords": [
+    "web development",
+    "technology showcase",
+    "coding challenge"
+  ],
+  "author": "Bhoomika",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
